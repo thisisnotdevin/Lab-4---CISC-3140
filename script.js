@@ -49,6 +49,7 @@ function addMeal(mealData, random = false) {
     meal.classList.add("meal");
 
     meal.innerHTML = `
+    
         <div class="meal-header">
             ${
                 random
@@ -56,20 +57,29 @@ function addMeal(mealData, random = false) {
             <span class="random"> Random Recipe </span>`
                     : ""
             }
+            
             <img
                 src="${mealData.strMealThumb}"
                 alt="${mealData.strMeal}"
             />
+    
+            
         </div>
         <div class="meal-body">
             <h4>${mealData.strMeal}</h4>
+            
             <button class="fav-btn">
                 <i class="fas fa-heart"></i>
-            </button>
+            </button> 
+            <button class="skip-btn">
+            <i class="fas fa-times-circle"></i>
+        </button>
         </div>
+     
     `;
 
     const btn = meal.querySelector(".meal-body .fav-btn");
+    
 
     btn.addEventListener("click", () => {
         if (btn.classList.contains("active")) {
@@ -84,11 +94,13 @@ function addMeal(mealData, random = false) {
     });
 
     meal.addEventListener("click", () => {
-        showMealInfo(mealData);
+        location.reload();
     });
 
     mealsEl.appendChild(meal);
+    
 }
+
 
 function addMealLS(mealId) {
     const mealIds = getMealsLS();
@@ -150,6 +162,7 @@ function addMealFav(mealData) {
 
     favoriteContainer.appendChild(favMeal);
 }
+
 
 function showMealInfo(mealData) {
     // clean it up
