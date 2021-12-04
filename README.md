@@ -6,7 +6,7 @@ The application also comes with a feature that allows the user to save their fav
 Here is a quick look at the application.
 [devinscookingrecipe](https://devinscookingrecipe.netlify.app/)
 
-<img width="1392" alt="Screen Shot 2021-12-03 at 10 33 04 PM" src="https://user-images.githubusercontent.com/66978846/144695427-33054052-9641-4168-9d76-a286f125e8dd.png">
+<img width="1327" alt="Screen Shot 2021-12-03 at 10 38 34 PM" src="https://user-images.githubusercontent.com/66978846/144695593-f2bc9679-5cb3-4680-a025-e036f0d37c9b.png">
 
 
 ## How to Use
