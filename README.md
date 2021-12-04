@@ -33,4 +33,34 @@ If you are on netlify, go to your site overview  <img width="120" alt="Screen Sh
 <img width="703" alt="Screen Shot 2021-12-03 at 10 22 51 PM" src="https://user-images.githubusercontent.com/66978846/144695179-50f026b1-7175-466b-b0f1-193923d78062.png">
 
 To choose a domain ending in .com which is a top-level domain, you would have to pay 16$ each year.
+
+You could also choose to view your deployment logs to see that the configuration files worked by clicking deployment details. This is how it should look like
+
+<img width="1190" alt="Screen Shot 2021-12-03 at 10 50 27 PM" src="https://user-images.githubusercontent.com/66978846/144695873-cec1cbf7-7672-4d04-98e5-fdd222d9bab1.png">
+10:34:28 PM: Build ready to start
+10:34:30 PM: build-image version: 8925038cf853b22d6397cdcb9904ac88b66bb383 (focal)
+10:34:30 PM: build-image tag: v4.5.0
+10:34:30 PM: buildbot version: f344a535fc9e872014eaaa404a4e12d2d8b86d78
+10:34:30 PM: Fetching cached dependencies
+10:34:31 PM: Starting to download cache of 28.7KB
+10:34:31 PM: Finished downloading cache in 103.655962ms
+10:34:31 PM: Starting to extract cache
+10:34:31 PM: Finished extracting cache in 6.717793ms
+10:34:31 PM: Finished fetching cache in 110.689748ms
+10:34:31 PM: Starting to prepare the repo for build
+10:34:31 PM: Preparing Git Reference refs/heads/main
+10:34:31 PM: Parsing package.json dependencies
+10:34:32 PM: No build steps found, continuing to publishing
+10:34:32 PM: Starting to deploy site from '/'
+10:34:32 PM: Creating deploy tree 
+10:34:32 PM: Creating deploy upload records
+10:34:32 PM: 1 new files to upload
+10:34:32 PM: 0 new functions to upload
+10:34:32 PM: Starting post processing
+10:34:32 PM: Post processing - HTML
+10:34:33 PM: Post processing - header rules
+10:34:33 PM: Post processing - redirect rules
+10:34:33 PM: Finished processing build request in 2.240008246s
+10:34:33 PM: Post processing done
+10:34:33 PM: Site is live ✨
  
