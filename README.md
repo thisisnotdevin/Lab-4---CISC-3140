@@ -11,7 +11,7 @@ Here is a quick look at the application.
 ## How to Use
 A random recipe will be loaded for the user to look at once they enter the application. To look at a recipe first add it to favorites and then click on it. to remove simply press the X.
 
-The heart![image](https://user-images.githubusercontent.com/66978846/144542913-ac8726c8-ba8d-4024-9180-85fcf676a7d4.png) means you can favorite a meal and it will save it to the favorites box, and don't worry even if you accidentally refresh the page it will still be there
+The heart ![image](https://user-images.githubusercontent.com/66978846/144542913-ac8726c8-ba8d-4024-9180-85fcf676a7d4.png) means you can favorite a meal and it will save it to the favorites box, and don't worry even if you accidentally refresh the page it will still be there
 
 Click the search icon ![image](https://user-images.githubusercontent.com/66978846/144542606-f2fb1916-2a24-46c1-bd20-b9c09c2a757a.png) if you wish to look at all the recipes.
 
@@ -24,7 +24,8 @@ Click the search icon ![image](https://user-images.githubusercontent.com/6697884
 6. If everything went accordingly to plan your site should be published and your site should be live ✨
 
 ## How to set a custom domain
-If you are on netlify, go to your site overview <img width="120" alt="Screen Shot 2021-12-03 at 10 18 06 PM" src="https://user-images.githubusercontent.com/66978846/144695050-703a5318-45b4-45ad-bdc3-8df73e2a535e.png"> and add a name that is available, ending in the domain .netlify.app.
+If you are on netlify, go to your site overview  <img width="120" alt="Screen Shot 2021-12-03 at 10 18 06 PM" src="https://user-images.githubusercontent.com/66978846/144695050-703a5318-45b4-45ad-bdc3-8df73e2a535e.png">  and add a name that is available, ending in the domain .netlify.app.
+
 <img width="703" alt="Screen Shot 2021-12-03 at 10 22 51 PM" src="https://user-images.githubusercontent.com/66978846/144695179-50f026b1-7175-466b-b0f1-193923d78062.png">
 
 To choose a domain ending in .com which is a top-level domain, you would have to pay 16$ each year.
