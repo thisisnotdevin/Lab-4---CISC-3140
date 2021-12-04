@@ -24,5 +24,8 @@ Click the search icon ![image](https://user-images.githubusercontent.com/6697884
 6. If everything went accordingly to plan your site should be published and your site should be live ✨
 
 ## How to set a custom domain
-If you are on netlify, go to your site overview <img width="100" alt="Screen Shot 2021-12-03 at 10 18 06 PM" src="https://user-images.githubusercontent.com/66978846/144695050-703a5318-45b4-45ad-bdc3-8df73e2a535e.png">
+If you are on netlify, go to your site overview <img width="120" alt="Screen Shot 2021-12-03 at 10 18 06 PM" src="https://user-images.githubusercontent.com/66978846/144695050-703a5318-45b4-45ad-bdc3-8df73e2a535e.png"> and add a name that is available, ending in the domain .netlify.app.
+<img width="703" alt="Screen Shot 2021-12-03 at 10 22 51 PM" src="https://user-images.githubusercontent.com/66978846/144695179-50f026b1-7175-466b-b0f1-193923d78062.png">
+
+To choose a domain ending in .com which is a top-level domain, you would have to pay 16$ each year.
  
