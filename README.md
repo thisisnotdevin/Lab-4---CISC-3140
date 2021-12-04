@@ -24,5 +24,5 @@ Click the search icon ![image](https://user-images.githubusercontent.com/6697884
 6. If everything went accordingly to plan your site should be published and your site should be live ✨
 
 ## How to set a custom domain
-If you are on netlify, go to your site overview <img width="194" alt="Screen Shot 2021-12-03 at 10 18 06 PM" src="https://user-images.githubusercontent.com/66978846/144695050-703a5318-45b4-45ad-bdc3-8df73e2a535e.png">
-
+If you are on netlify, go to your site overview <img width="100" alt="Screen Shot 2021-12-03 at 10 18 06 PM" src="https://user-images.githubusercontent.com/66978846/144695050-703a5318-45b4-45ad-bdc3-8df73e2a535e.png">
+ 
