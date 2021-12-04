@@ -16,7 +16,7 @@ The heart ![image](https://user-images.githubusercontent.com/66978846/144542913-
 
 Click the search icon ![image](https://user-images.githubusercontent.com/66978846/144542606-f2fb1916-2a24-46c1-bd20-b9c09c2a757a.png) if you wish to look at all the recipes.
 
-# Project Goals 
+## Project Goals 
 1. To learn how to use APIs and deploy it to a custom website.
 2. An API is an application connected to the internet that sends data to the server, we retrieve the data so the users can interact with it. To learn how to utilize APIs with JavaScript click here [JavaScript Fetch API](https://www.javascripttutorial.net/javascript-fetch-api/).
 3. Use HTML and CSS to create the contents of the page, and the design of the page.
@@ -27,7 +27,7 @@ Click the search icon ![image](https://user-images.githubusercontent.com/6697884
    * Customize your build options and deploy
 6. If everything went accordingly to plan your site should be published and your site should be live ✨
 
-# How to set a custom domain
+## How to set a custom domain
 If you are on netlify, go to your site overview  <img width="120" alt="Screen Shot 2021-12-03 at 10 18 06 PM" src="https://user-images.githubusercontent.com/66978846/144695050-703a5318-45b4-45ad-bdc3-8df73e2a535e.png">  and add a name that is available, ending in the domain .netlify.app.
 
 <img width="703" alt="Screen Shot 2021-12-03 at 10 22 51 PM" src="https://user-images.githubusercontent.com/66978846/144695179-50f026b1-7175-466b-b0f1-193923d78062.png">
