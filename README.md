@@ -7,7 +7,7 @@ Here is a quick look at the application.
 [devinscookingrecipe](https://devinscookingrecipe.netlify.app/)
 
 <img width="1392" alt="Screen Shot 2021-12-03 at 10 33 04 PM" src="https://user-images.githubusercontent.com/66978846/144695427-33054052-9641-4168-9d76-a286f125e8dd.png">
-03.png)
+
 
 ## How to Use
 A random recipe will be loaded for the user to look at once they enter the application. To look at a recipe first add it to favorites and then click on it. to remove simply press the X.
